@@ -16,43 +16,36 @@ sections:
     path: docs/02_navigation_listing.md
     estimated_minutes: 8
     dependencies:
-    - 1
   - id: 3
     title: File Operations
     path: docs/03_file_ops.md
     estimated_minutes: 8
     dependencies:
-    - 2
   - id: 4
     title: Viewing & Searching Files
     path: docs/04_view_search.md
     estimated_minutes: 8
     dependencies:
-    - 3
   - id: 5
     title: Permissions & Ownership
     path: docs/05_permissions.md
     estimated_minutes: 8
     dependencies:
-    - 4
   - id: 6
     title: System Info & Processes
     path: docs/06_system_processes.md
     estimated_minutes: 7
     dependencies:
-    - 5
   - id: 7
     title: Networking Basics
     path: docs/07_networking.md
     estimated_minutes: 7
     dependencies:
-    - 6
   - id: 8
     title: Shortcuts, History & Aliases
     path: docs/08_shortcuts_aliases.md
     estimated_minutes: 7
     dependencies:
-    - 7
 ui:
   default_open_section_id: 1
   show_toc: true
