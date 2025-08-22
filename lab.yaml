@@ -1,0 +1,11 @@
+title: Lab Instructions
+version: 1.0.0
+description: lab instructions for the project
+overview_path: docs/00_overview.md
+sections:
+  title: Instructions
+  items:
+ui:
+  default_open_section_id: 1
+  show_toc: true
+  collapsible_sections: true
