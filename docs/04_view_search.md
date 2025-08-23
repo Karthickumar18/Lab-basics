@@ -1,4 +1,4 @@
-# Section 4: Viewing & Searching Files
+Viewing & Searching Files
 
 🎯 **Scenario:**  
 You are a **detective**. Files hold secrets, and you need tools to read and search inside them.
@@ -22,4 +22,4 @@ find . -name "*.txt"    # Find files
 Search for the word “Linux” in your diary:  
 ```bash
 grep "Linux" diary/day1.txt
-```  
+```
