@@ -1,4 +1,4 @@
-# Section 1: Introduction & Terminal Basics
+Introduction & Terminal Basics
 
 🎯 **Scenario:**  
 You just logged into a brand-new Linux spaceship. The terminal is your **cockpit control panel**. Before flying, let’s check your identity and location.
@@ -22,4 +22,4 @@ Check your current location with `pwd`. Then travel back home with:
 ```bash
 cd ~
 ```
-Confirm with `pwd`. Did you return to your home base?  
+Confirm with `pwd`. Did you return to your home base?
