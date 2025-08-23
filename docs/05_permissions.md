@@ -1,4 +1,4 @@
-# Section 5: Permissions & Ownership
+Permissions & Ownership
 
 🎯 **Scenario:**  
 You are the **security guard** of your Linux world. Permissions decide who can read, write, or enter.
@@ -22,4 +22,4 @@ Protect your diary:
 ```bash
 chmod 600 diary/day1.txt
 ls -l diary/day1.txt
-```  
+```
