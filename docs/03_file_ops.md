@@ -1,4 +1,4 @@
-# Section 3: File Operations
+File Operations
 
 🎯 **Scenario:**  
 Now you’re an **architect** in the Linux world. You’ll build houses (files), make copies, move them, or demolish them.
@@ -24,4 +24,4 @@ Make a secret diary:
 mkdir diary
 echo "Today I learned Linux!" > diary/day1.txt
 cat diary/day1.txt
-```  
+```
