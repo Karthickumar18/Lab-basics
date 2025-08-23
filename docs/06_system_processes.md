@@ -1,4 +1,4 @@
-# Section 6: System Info & Processes
+System Info & Processes
 
 🎯 **Scenario:**  
 You’re now an **engineer** monitoring a factory (the computer). Let’s check its storage and processes.
@@ -18,4 +18,4 @@ ps aux --sort=-%mem | head -n 3  # Top 3 memory apps
 ```
 
 🏆 **Mini-Challenge:**  
-Run `top` and find which process uses the most CPU. Can you identify it?  
+Run `top` and find which process uses the most CPU. Can you identify it?
