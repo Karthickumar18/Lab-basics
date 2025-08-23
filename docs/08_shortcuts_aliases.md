@@ -1,4 +1,4 @@
-# Section 8: Shortcuts, History & Aliases
+Shortcuts, History & Aliases
 
 🎯 **Scenario:**  
 You are a **time wizard**. Reuse old spells (commands) and create magic shortcuts.
@@ -25,4 +25,4 @@ Create an alias called `hi` that runs:
 ```bash
 echo "Hi, Linux World!"
 ```  
-Try it out!  
+Try it out!
