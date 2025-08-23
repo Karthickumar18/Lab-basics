@@ -1,4 +1,4 @@
-# Section 7: Networking Basics
+Networking Basics
 
 🎯 **Scenario:**  
 You are a **network explorer**. Let’s test connections and resolve names.
@@ -16,4 +16,4 @@ ping -c 4 google.com # Test connectivity
 ```
 
 🏆 **Mini-Challenge:**  
-Ping your favorite website (e.g., `ping -c 2 wikipedia.org`). Did it respond?  
+Ping your favorite website (e.g., `ping -c 2 wikipedia.org`). Did it respond?
