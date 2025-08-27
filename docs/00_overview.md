@@ -1,12 +1,12 @@
-# Linux Commands — Instruction Lab (Gamified)
+# 🎯Linux Commands â Instruction Lab (Gamified)
 
 Welcome, adventurer!  
 In this lab, you will **learn Linux step by step** through fun scenarios and missions.  
 Each section has:  
-- 🎯 A **Scenario** to set the story  
-- ✅ **Objectives / Use Cases** to explain real-world importance  
-- 🖥️ **Commands to Try** (exact commands with explanations)  
-- 🏆 A **Mini-Challenge** to practice like a game  
+- ð¯ A **Scenario** to set the story  
+- â **Objectives / Use Cases** to explain real-world importance  
+- ð¥ï¸ **Commands to Try** (exact commands with explanations)  
+- ð A **Mini-Challenge** to practice like a game  
 
 By the end of this 1-hour lab, you will know how to:  
 - Use the terminal and shell  
