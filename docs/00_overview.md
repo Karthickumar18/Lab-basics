@@ -1,6 +1,6 @@
 # 🎯Linux Commands Instruction Lab (Gamified)
 
-Welcome, adventurer!  
+🖖 Welcome, adventurer!  
 In this lab, you will **learn Linux step by step** through fun scenarios and missions.  
 Each section has:  
 - A **Scenario** to set the story  
