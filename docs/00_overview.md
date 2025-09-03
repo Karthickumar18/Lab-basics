@@ -17,4 +17,5 @@ By the end of this 1-hour lab, you will know how to:
 - Monitor system info like an engineer  
 - Use networking like a troubleshooter  
 - Save time with shortcuts and aliases  
+- Save time with shortcuts and aliases 
 
