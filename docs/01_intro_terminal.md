@@ -1,5 +1,5 @@
 Introduction & Terminal Basics
- 
+
 🎯 **Scenario:**  
 You just logged into a brand-new Linux spaceship. The terminal is your **cockpit control panel**. Before flying, let’s check your identity and location.
  
@@ -7,7 +7,7 @@ You just logged into a brand-new Linux spaceship. The terminal is your **cockpit
 - Know your shell (different cockpits)  
 - Check your username (who’s piloting)  
 - Find your current working directory (where you are in the system)  
-- Clear the terminal when cluttered  
+- Clear the terminal 
  
 🖥️ **Commands to Try**
  
