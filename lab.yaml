@@ -4,6 +4,7 @@ description: >
   A gamified Instruction Lab introducing Linux commands through scenarios
   and mini-challenges.
 overview_path: docs/00_overview.md
+start_path: script/start.sh
 sections:
   title: Instructions
   items:
