@@ -10,6 +10,7 @@ You’re exploring the Linux city. Each folder is a street, each file a house. L
 
 🖥️ **Commands to Try**
 ```bash
+sudo apt update
 ls       # List files
 ls -l    # List with details
 ls -a    # List hidden files
